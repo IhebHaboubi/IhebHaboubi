@@ -3,7 +3,7 @@
 <br/>
 	
 <a href="https://www.linkedin.com/in/iheb-haboubi/">
-  <img alt="Iheb's LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img alt="Iheb's LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:iheb.haboubi56@gmail.com">
