@@ -1,6 +1,6 @@
 # Hello, Friend.
 
-### :boy: About 
+### About 
 
 I'm **Iheb**, a computer science student. Programming and building cool things is one of my multiple hobbies.
 I'm currently learning advanced algorithms and data structures :floppy_disk:. I've also started contributing to open source software :octocat: which has been an amazing experience.
@@ -22,7 +22,7 @@ Also if you have any question, don't hesitate to ask me :rainbow:
 </a>
 
 
-### :key: Languages and tools
+### Languages and tools
 
 - **Python**     : My favorite language, which I use almost for everything 
 - **Javascript** : Mainly for backend development  
