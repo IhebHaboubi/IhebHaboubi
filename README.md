@@ -27,5 +27,5 @@ Also if you have any question, don't hesitate to ask me :rainbow:
 - **Python**     : My favorite language, which I use almost for everything 
 - **Javascript** : Mainly for backend development  
 - **C / C++**    : For data structures and algorithms
-- **Gnu Bash**   : For utility scripts 
+- **GNU Bash**   : For utility scripts 
 - **Arch Linux** : My daily OS 
