@@ -4,7 +4,10 @@
 
 I'm **Iheb**, a computer science student. Programming and building cool things is one of my multiple hobbies.
 I'm currently learning advanced algorithms and data structures :floppy_disk:. I've also started contributing to open source software :octocat: which has been an amazing experience.
-I'm very intersted in learning computer vision, reinforecement learning, and robotics software engineering in general :robot: .
+I'm very intersted in learning computer vision, reinforecement learning, and robotics software engineering in general :robot:.
+
+So, If you share the same interests as me, let me now and maybe we can work on something cool !
+Also if you have any question, don't hesitate to ask me :rainbow:
 
 <a href="https://www.linkedin.com/in/iheb-haboubi/">
   <img alt="Iheb's LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -17,3 +20,12 @@ I'm very intersted in learning computer vision, reinforecement learning, and rob
 <a href="https://www.reddit.com/user/iheb-haboubi">
   <img alt="Iheb's Reddit" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white"/>
 </a>
+
+
+### :key: Languages and tools
+
+- **Python**     : My favorite language, which I use almost for everything 
+- **Javascript** : Mainly for backend development  
+- **C / C++**    : For data structures and algorithms
+- **Gnu Bash**   : For utility scripts 
+- **Arch Linux** : My daily OS 
