@@ -3,8 +3,8 @@
 ### About 
 
 I'm **Iheb**, a computer science student. Programming and solving challenging problems is one of my multiple hobbies.
-I'm currently practicing algorithms and data structures :floppy_disk:. I've also started contributing to open source software :octocat: which has been an amazing learning experience.
-I'm very eager to dive into computer vision, reinforecement learning, and robotics software engineering in general :robot:.
+I'm currently practicing **algorithms and data structures** :floppy_disk:. I've also started contributing to **open source software** :octocat: which has been an amazing learning experience.
+I'm very eager to dive into **computer vision, reinforecement learning, and robotics software engineering** in general :robot:.
 
 So, If you share the same interests as me, let me know and maybe we can work on something cool !
 Also if you have any question, don't hesitate to ask me :rainbow:
